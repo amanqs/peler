@@ -1,7 +1,7 @@
 #!/usr/bin/env bash
 
 REPO="https://github.com/amanqs/peler.git"
-DIR="/root/Onlymeriz"
+DIR="/root/amanqs"
 
 spinner(){
     local pid=$!
