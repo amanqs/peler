@@ -1,6 +1,6 @@
 #!/usr/bin/env bash
 
-REPO="https://github.com/Onlymeriz/Ayra.git"
+REPO="https://github.com/amanqs/peler.git"
 DIR="/root/Onlymeriz"
 
 spinner(){
